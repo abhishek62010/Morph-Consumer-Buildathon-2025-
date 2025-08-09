@@ -1,0 +1,80 @@
+🔹 Morph Consumer Buildathon — PayFi Track Ideas
+Stablecoin-Based Remittance App
+
+What: Mobile-first dApp for cross-border remittances
+
+Key Features: Instant swaps to local tokens, off-ramp integration for cash-out
+
+Impact: Reduce remittance fees and settlement times for migrant workers & families
+
+Smart Wallet with Phone Number Payments
+
+What: Smart contract wallet enabling payments via phone numbers or usernames
+
+Key Features: Abstracts away wallet addresses, integrates ENS-like naming
+
+Impact: Onboard non-crypto users by making payments as easy as sending SMS
+
+Vendor Payment Gateway SDK
+
+What: Plug-and-play SDK for merchants to accept stablecoin payments
+
+Key Features: QR code, POS terminal, pay link support, stablecoin auto-settlement
+
+Impact: Enable small vendors to join the digital economy without complex setups
+
+Offline Crypto Payments
+
+What: USSD or Bluetooth-based crypto payment system
+
+Key Features: Offline transaction signing, queued confirmation when online
+
+Impact: Expand crypto usability in areas with poor internet connectivity
+
+Microloan Marketplace
+
+What: Peer-to-peer lending dApp using stablecoins
+
+Key Features: Automated smart contracts, borrower reputation scoring, instant settlement
+
+Impact: Improve access to small loans for unbanked individuals
+
+Bill Payment Aggregator
+
+What: Pay utility bills entirely in stablecoins/tokens
+
+Key Features: One-stop platform for electricity, water, internet, and phone bills
+
+Impact: Reduce reliance on banks for recurring payments
+
+Crypto Group Savings (ROSCA)
+
+What: Smart contract-powered Rotating Savings & Credit Association
+
+Key Features: Auto-rotation of funds, dispute resolution, reputation tracking
+
+Impact: Digitize trusted community-based savings models
+
+Decentralized Payroll System
+
+What: Salary disbursement system for startups & SMBs
+
+Key Features: Automated vesting, tax logging, employee dashboard
+
+Impact: Provide transparent, borderless payroll for remote teams
+
+Stablecoin Swap Aggregator
+
+What: Best-rate stablecoin exchange platform
+
+Key Features: DEX, bridge, and LayerZero integration for lowest fees
+
+Impact: Save users money and improve liquidity access globally
+
+Merchant Loyalty & Cashback Wallet
+
+What: Wallet extension with cashback rewards in tokens
+
+Key Features: Vendor-specific discounts, loyalty program tokenomics
+
+Impact: Incentivize stablecoin adoption for everyday purchases
