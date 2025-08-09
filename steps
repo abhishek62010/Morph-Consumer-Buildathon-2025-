@@ -1,0 +1,51 @@
+Solidity smart contracts
+
+User registry (phone/username → address)
+
+Wallet forwarding / simple account abstraction to allow payments by username
+
+ERC20 stablecoin transfer helper (testnet tokens)
+
+Unit tests (Hardhat)
+
+Deployment tooling
+
+Hardhat config & scripts to deploy to Morph testnet (with placeholder RPC & instructions how to replace)
+
+Verification & how to grab testnet tokens from faucet
+
+Backend (optional minimal)
+
+Small Node.js Express service for:
+
+Phone number verification (mocked for MVP)
+
+Indexing registry events (optional)
+
+Env instructions (where to put RPC keys)
+
+React frontend
+
+Connect wallet (MetaMask / WalletConnect)
+
+Register phone/username flow
+
+Send payment by phone/username (auto-resolve to wallet address)
+
+Transaction status & history
+
+Hosted-ready (Vercel / Netlify) with build scripts
+
+Docs & Submission package
+
+README with setup, run, deployment, and Morph submission checklist
+
+Demo video script (3–4 minute walkthrough)
+
+Short pitch (one-paragraph) for judges
+
+Extras (if you want)
+
+Docker / compose for local dev
+
+Simple CI (GitHub Actions) to run tests on PRs
